@@ -4,7 +4,7 @@ import streamlit.components.v1 as components
 st.set_page_config(
     page_title="Pathfinder 2e -  Kingmaker",
     layout="wide",
-    page_icon="\U0001F9DD"
+    #page_icon="\U0001F9DD"
 )
 
 # Estilo global
